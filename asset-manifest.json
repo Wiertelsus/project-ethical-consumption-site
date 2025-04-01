@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project-ethical-consumption-site/static/css/main.fbf02072.css",
+    "main.js": "/project-ethical-consumption-site/static/js/main.51bbd3b0.js",
+    "static/js/453.f9e5501a.chunk.js": "/project-ethical-consumption-site/static/js/453.f9e5501a.chunk.js",
+    "index.html": "/project-ethical-consumption-site/index.html",
+    "main.fbf02072.css.map": "/project-ethical-consumption-site/static/css/main.fbf02072.css.map",
+    "main.51bbd3b0.js.map": "/project-ethical-consumption-site/static/js/main.51bbd3b0.js.map",
+    "453.f9e5501a.chunk.js.map": "/project-ethical-consumption-site/static/js/453.f9e5501a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbf02072.css",
+    "static/js/main.51bbd3b0.js"
+  ]
+}
